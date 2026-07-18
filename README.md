@@ -1,2 +1,2 @@
-# github-profile my
+# github-my-profile
 profile
