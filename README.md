@@ -1,6 +1,6 @@
 # Compiler Design Lab
 
-This repository contains C programs developed for the Compiler Design laboratory course. The programs demonstrate fundamental concepts of lexical analysis, string processing, tokenization, and standard C string library functions.
+This repository contains C programs developed for the Compiler Design laboratory course. The programs demonstrate fundamental concepts of lexical analysis, string processing, tokenization, and standard C string library functions!
 
 ## 📚 Programs Included
 
